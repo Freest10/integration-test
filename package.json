@@ -1,0 +1,23 @@
+{
+  "name": "TestingTabander",
+  "version": "0.0.0",
+  "description": "Testing using headless browser",
+  "main": "server.js",
+  "scripts": {
+    "test": "jasmine-node tabander.spec.js"
+  },
+  "repository": "",
+  "keywords": [
+    "testing",
+    "headless",
+    "browser"
+  ],
+  "dependencies": {},
+  "author": "Maksimov Maksim",
+  "license": "BSD",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5",
+    "nodemon": "^1.17.5",
+    "zombie": "^6.1.2"
+  }
+}
