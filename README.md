@@ -1,4 +1,4 @@
-## integration-test
+## Integration test
 Для запуска тестов сделать следующее:
 <br/>1. ```npm i```
 <br/>2. ```npm test```
